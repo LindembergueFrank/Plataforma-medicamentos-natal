@@ -1,0 +1,27 @@
+OK: textos iguais
+OK: inserção
+OK: exclusão
+OK: substituição
+OK: exemplo clássico
+OK: dois vazios
+OK: origem vazia
+OK: destino vazio
+OK: transposição não é operação primitiva
+OK: algoritmo literal distingue caixa
+OK: caractere Unicode suplementar
+OK: normalização fica fora do algoritmo
+OK: limite de entrada
+OK: null não vira texto vazio
+OK: propriedades em pequeno domínio
+OK: busca prioriza exatas normalizadas
+OK: busca sugere erro de uma letra
+OK: não aproxima concentração
+OK: não aproxima forma
+OK: consulta sem candidato
+OK: busca vazia rejeitada
+OK: limite inválido rejeitado
+OK: IDs duplicados rejeitados
+OK: carga CSV e busca integradas
+OK: CSV malformado rejeitado
+OK: empates têm ordem determinística
+RESULTADO: 26 verificações aprovadas.

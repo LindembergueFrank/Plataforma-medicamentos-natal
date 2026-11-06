@@ -1,0 +1,13 @@
+Data de execução: 26/10/2026
+Java: 17.0.20+8-1-24.04-Ubuntu
+VM: OpenJDK 64-Bit Server VM
+SO: Linux
+Arquitetura: amd64
+Processadores disponíveis: 8
+Entradas sintéticas com alfabeto {a,b,c,d}, semente 20261026 + comprimento.
+24 pares por comprimento preparados fora da região medida.
+500 chamadas de aquecimento e 21 rodadas de 100 comparações por comprimento.
+Mediana e p95 são calculados sobre as médias por rodada, não sobre latências individuais.
+System.nanoTime inclui o núcleo, vetores Unicode e alocação da matriz, sem compilação, CSV, rede ou banco.
+Medição exploratória em um único processo e ambiente virtualizado. JIT e GC podem afetar os resultados.
+Payload int = 4*(m+1)*(n+1). Não inclui cabeçalhos dos arrays, referências ou vetores auxiliares.

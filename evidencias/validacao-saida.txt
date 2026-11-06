@@ -1,0 +1,3 @@
+Domínio: 31 textos sobre {a,b}, de comprimento 0 a 4.
+Pares exaustivos: 961; adicionais: 6
+RESULTADO: 967 comparações concordantes; zero divergências.
